@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: target\*.jar
+  - source: target/*.jar
     destination: C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps
 hooks:
    ApplicationStart:
