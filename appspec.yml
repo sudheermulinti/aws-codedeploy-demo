@@ -6,5 +6,5 @@ files:
 hooks:
    ApplicationStart:
     - location: scripts/start_server.bat
-  ApplicationStop:
+   ApplicationStop:
     - location: scripts/stop_server.bat
